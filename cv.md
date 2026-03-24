@@ -10,7 +10,12 @@ Write about goals and priorities, strengths, experience and what skills I want t
 
 Programming languages, frameworks, methodologies, version control systems, tools for development.
 
-## Code Examples
+## Code Example
+```javaScript
+function multiply(a, b){
+  return a * b
+}
+```
 
 ## **Experience**
 
